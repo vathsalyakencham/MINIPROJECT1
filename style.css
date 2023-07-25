@@ -71,15 +71,15 @@ h2{
 
 
  #para{
-    margin-left: 995px;
+    margin-left: 900px;
     margin-top: 155px;
     padding: 10px;
-    overflow:hidden;
+    overflow: hidden;
     position: absolute bottom;
     border: 2px solid black;
     background-color: transparent;
     color: black;
-    width:23%;
+    width: 23%;
     box-shadow: 4px 3px 4px black;
     height: 350px;
 }
@@ -118,7 +118,7 @@ h2{
     align-items: center;
     align-content: center;
     flex-wrap: wrap;
-    width:50%;
+    width: 50%;
     height: 50px;
 }
  * {
